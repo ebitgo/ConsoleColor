@@ -6,7 +6,7 @@
 
 
 ```shell
-go get github.com/Ledgercn/ConsoleColor
+go get github.com/ebitgo/ConsoleColor
 ```
 
 In the Linux environment, call the fatih/color library.
